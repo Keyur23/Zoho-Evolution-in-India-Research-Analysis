@@ -3,6 +3,12 @@
 
 Zoho Corporation's journey from a small Chennai apartment in 1996 to becoming India's second-largest SaaS company represents one of the most remarkable success stories in Indian technology. With ₹8,703 crores ($1.4 billion) in global revenue and 15% contribution from India alone, Zoho has established itself as a formidable competitor to global giants like Salesforce and Microsoft.
 
+## Growth Rate Percent
+
+<img width="1791" height="1117" alt="Growth Rate Percent" src="https://github.com/user-attachments/assets/44053bc6-c343-4f06-8576-42c6b6c2f15a" />
+
+This graph shows growth rate percent of zoho in various metrics. Higher growth rate is in Hub Offices in india and Enterprise Revenue Share India which is 67% and 65% respectively. However, growth rate for R&D Investement is 0%. 
+
 
 ### Used Datasets:
 
